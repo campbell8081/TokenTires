@@ -1,6 +1,10 @@
 # TokenTires
 Project 3 for Rice University FinTech Bootcamp
 
-A blockchain that will act as a tire registry by tracking the life of a tire.
-TokenTires is used to track a tire's entire life cycle to help tire producers better track recalls, collect useful data, keep track of warranty miles, etc. 
-At each stop along the way, tire distributors, body shops and car dealerships will be required to make an entry on the blockchain, signing off when they received the tire and where it is currently located, its condition as well as the license plate of the vehicle the tire is fitted to.
+Goal: Write a smart contract that I put on the Ethereum network. The contract will be used to pay out our suppliers. There are are 3 levels to this contract.
+
+Level one: is an AssociateProfitSplitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+
+Level two: is a TieredPaymentSplitter that will distribute different percentages of Ether to our suppliers at different tiers/levels. Example: 
+
+Level three:
