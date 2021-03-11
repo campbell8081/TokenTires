@@ -1,7 +1,7 @@
 ### **TokenTires**
 Project 3 for Rice University FinTech Bootcamp
 
-![](pngtree-cartoon-tire-design-icon-image_1322729.jpg)
+![tire image](pngtree-cartoon-tire-design-icon-image_1322729.jpg)
 
 Goal: Program a smart contract (TokenTires) by using Solidity and put it on the Ethereum network. The contract will be used by Tire manufacturer's to pay out distributors and customers through incentive programs.
 
