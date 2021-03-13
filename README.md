@@ -35,18 +35,18 @@ Solidity is a “typed language”
 
 
 Advantages of this system:
-    - Borderless/Decentralized
-            Decentralized so there is no one point of failure here
-    - Open
-            Anyone from vendors to customers can access and verify these contracts
-    - Secure
-            Encryption and no single point of failure allow this to be much more  secure than the current system
-                Public and private keys to ensure the confidentiality of the data transmitted 
-            The only way for our dApp/smart contract to go down is for the entire Ethereum to go down
-    - Less expensive
-            Pay per use type of model 
-            More efficient use of money
-    - Autonomous
-            Don’t have to rely on humans or risk human error
-            Reduce legal fees and/or make more efficient use of our legal team
+- Borderless/Decentralized
+    1. Decentralized so there is no one point of failure here
+- Open
+    1. Anyone from vendors to customers can access and verify these contracts
+- Secure
+    1. Encryption and no single point of failure allow this to be much more  secure than the current system
+    2. Public and private keys to ensure the confidentiality of the data transmitted 
+    3. The only way for our dApp/smart contract to go down is for the entire Ethereum to go down
+- Less expensive
+    1. Pay per use type of model 
+    2. More efficient use of money
+- Autonomous
+    1. Don’t have to rely on humans or risk human error
+    2. Reduce legal fees and/or make more efficient use of our legal team
 
